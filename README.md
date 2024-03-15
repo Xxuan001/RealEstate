@@ -4,4 +4,4 @@
 ## Welcome to Los Camarones' GitHub! This project is aimed to deliver a high functioning real estate website
 
 ###  - Julian Pulido
-
+### -  Wendy Le
