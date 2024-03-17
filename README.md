@@ -3,10 +3,14 @@
 
 ## Welcome to Los Camarones' GitHub! This project is aimed to deliver a high functioning real estate website
 
-###  - Julian Pulido, Mohamed Ahmed
+###  - Julian Pulido
 
-Wendy Le 
+###  - Mohamed Ahmed
 
-### - xuanxuan Miao 
+###  - Wendy Le 
 
-### - Kumar Priyanshu Raj
+###  - xuanxuan Miao 
+
+###  - Kumar Priyanshu Raj
+
+###  - Eric Delgado
