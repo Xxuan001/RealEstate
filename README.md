@@ -5,6 +5,8 @@
 
 ###  - Julian Pulido, Mohamed Ahmed
 
+Wendy Le 
+
 ### - xuanxuan Miao 
 
 ### - Kumar Priyanshu Raj
